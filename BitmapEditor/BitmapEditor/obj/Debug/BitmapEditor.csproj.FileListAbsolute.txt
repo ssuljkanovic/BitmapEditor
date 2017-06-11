@@ -1,0 +1,10 @@
+E:\BitmapEditor\BitmapEditor\Editovanje bitpame\bin\Debug\BitmapEditor.exe.config
+E:\BitmapEditor\BitmapEditor\BitmapEditor\bin\Debug\BitmapEditor.exe.config
+E:\BitmapEditor\BitmapEditor\BitmapEditor\bin\Debug\BitmapEditor.exe
+E:\BitmapEditor\BitmapEditor\BitmapEditor\bin\Debug\BitmapEditor.pdb
+E:\BitmapEditor\BitmapEditor\BitmapEditor\obj\Debug\BitmapEditor.csprojResolveAssemblyReference.cache
+E:\BitmapEditor\BitmapEditor\BitmapEditor\obj\Debug\Editovanje_bitpame.Form1.resources
+E:\BitmapEditor\BitmapEditor\BitmapEditor\obj\Debug\BitmapEditor.Properties.Resources.resources
+E:\BitmapEditor\BitmapEditor\BitmapEditor\obj\Debug\BitmapEditor.csproj.GenerateResource.Cache
+E:\BitmapEditor\BitmapEditor\BitmapEditor\obj\Debug\BitmapEditor.exe
+E:\BitmapEditor\BitmapEditor\BitmapEditor\obj\Debug\BitmapEditor.pdb

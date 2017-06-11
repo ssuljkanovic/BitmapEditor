@@ -1,0 +1,2 @@
+E:\BitmapEditor\BitmapEditor\Editovanje bitpame\bin\Debug\Editovanje bitpame.exe.config
+E:\BitmapEditor\BitmapEditor\Editovanje bitpame\bin\Debug\BitmapEditor.exe.config
