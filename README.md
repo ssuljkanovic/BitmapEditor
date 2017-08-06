@@ -5,7 +5,7 @@ Tema projekta: Prikaz i editovanje bitmape
 Tim: Salem Suljkanović, Amel Sažić
 
 Osnovne funkcionalnosti:
-- Slanje slike proizvoljnog formata na mikrokontroler LPC1114 putem serijske komunikacije i prikaz na Nokia dispjelu
+- Slanje slike proizvoljnog formata na mikrokontroler LPC1114 putem serijske komunikacije i prikaz na Nokia displeju
 - Pomoću džojstika omogućiti editovanje slike na displeju piksel po piksel
 - Nakon editovanja prenijeti i prikazati sliku na računaru
 
